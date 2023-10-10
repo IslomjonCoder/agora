@@ -5,7 +5,8 @@ import 'package:flutter/material.dart';
 import 'package:permission_handler/permission_handler.dart';
 
 const appId = "f214695bcbaa431ca9f3b6629685236c";
-const token = "test";
+const token =
+    "007eJxTYDjKfWPGh9gZvTKHdjw7o3hR5PKX+5b34jamZSWJz81/pN6uwJBmZGhiZmmalJyUmGhibJicaJlmnGRmZmRpZmFqZGyWfG6yampDICNDW4MeIyMDBIL4rAyJ6flFiQwMABvnIVs=";
 const channel = "agora";
 
 void main() => runApp(const MaterialApp(home: MyApp()));
